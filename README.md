@@ -1,3 +1,5 @@
+#Cliffor Yuyun
+
 # Sort 6 numbers using for loops, custom method calls, and now an array.
   This code is going to sort six random ranging from 0 to 9999 and the sort the six numbers in ascending order using array.
 
